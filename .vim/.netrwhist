@@ -1,7 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =5
-let g:netrw_dirhist_1='/home/wanghai/HUE/WorkSpace/Develop/ansible-experiment/roles/printer'
-let g:netrw_dirhist_2='/home/wanghai/HUE/WorkSpace/Develop/ansible-experiment/roles/printer/tasks'
-let g:netrw_dirhist_3='/home/wanghai/HUE/WorkSpace/Develop/ansible-experiment/roles'
-let g:netrw_dirhist_4='/home/wanghai/HUE/WorkSpace/Develop/ansible-experiment/roles/printer'
-let g:netrw_dirhist_5='/home/wanghai/HUE/WorkSpace/Develop/ansible-experiment/roles/printer/tasks'
