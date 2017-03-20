@@ -1,5 +1,6 @@
 set hlsearch
 set number
+set conceallevel=2
 
 syntax enable
 set background=dark
