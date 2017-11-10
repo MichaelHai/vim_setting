@@ -11,6 +11,8 @@ colorscheme solarized
 autocmd VimEnter * NERDTree
 autocmd VimEnter * wincmd w
 
+command Sudow w !sudo tee %
+
 " plasticboy/vim-markdown
 let g:vim_markdown_toc_autofit = 1
 let g:vim_markdown_folding_style_pythonic = 1
